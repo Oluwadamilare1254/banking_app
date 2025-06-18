@@ -7,17 +7,18 @@
 
 ### To run:
 ### Clone the repository:
-'''bash
+```bash
 git clone https://github.com/Oluwadamilare1254/banking_app.git
-'''
-'''bash
+```
+### Run with streamlit:
+```bash
 cd banking_app
 streamlit run home.py
-'''
+```
 
 ## Contributors:
-Oluwadamilare - Created streamlit UI and Savings account subclass
-oluwaseyi- Ceated account parent class(user)
-micheal- Created current account subClass
-David- Created current account GUI using streamlit
-Moses: Created savings account GUI using streamlit
+- Oluwadamilare - Created streamlit UI and Savings account subclass
+- Oluwaseyi- Ceated account parent class(user)
+- Micheal - Created current account subClass
+-  David- Created current account GUI using streamlit
+- Moses - Created savings account GUI using streamlit
